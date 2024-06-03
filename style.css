@@ -1,0 +1,54 @@
+body {
+    font-family: Itim;
+    background-color: rgba(228, 255, 253, 1);
+}
+header{
+    font-family: Jacques Francois Shadow;
+    text-align: center;
+    font-size: 40px;
+    background-color: rgba(197, 238, 244, 1);
+    border-radius: 20px;
+
+}
+p{
+    font-family:  Itim;
+    font-size: 18px;
+    text-align: left;
+}
+.qw {
+   width:200px;
+    height:300px;
+    border-radius: 10px;
+    opacity: 0.2;
+    align-items: center;
+       margin-left: 60px;
+}
+.qw:hover {
+    opacity: 1;
+    border: 3px solid rgb(123, 123, 198);
+     transition: 0.5s ease-out;
+     margin: 20px;
+  box-shadow: 8px 8px 8px 0 rgb(116, 116, 255);
+}
+h3{
+    text-align: center;
+}
+
+.qe{
+background-color: rgb(198, 224, 224);
+border-radius: 7px;
+text-align: center;
+}
+
+footer{
+    background-color:  rgba(197, 238, 244, 1);
+    font-size: 20px;
+    border-radius: 20px;
+    text-align: center;
+
+}
+a{
+    text-decoration: none;
+    color: rgb(139, 137, 255);
+}
+
